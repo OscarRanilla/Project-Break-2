@@ -1,0 +1,1 @@
+// Define las rutas relacionadas con los productos (ejemplo: /api/products).

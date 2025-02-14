@@ -1,0 +1,1 @@
+// Aquí manejamos login, registro y logout de usuarios.

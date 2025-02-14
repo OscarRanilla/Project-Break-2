@@ -1,0 +1,1 @@
+// Pruebas automatizadas para el controlador de productos usando Jest.

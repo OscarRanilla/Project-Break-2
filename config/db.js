@@ -1,1 +1,1 @@
-// configuración de la base de datos 
+// configuración de la base de datos (MongoDB)

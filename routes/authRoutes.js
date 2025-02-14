@@ -1,0 +1,1 @@
+// Define las rutas de autenticación (ejemplo: /api/login, /api/register).
